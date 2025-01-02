@@ -9,6 +9,7 @@
     background-color: #fff;
     border-radius: 3%;
     box-shadow: 10px 10px 0px #000;
+    border: #000 solid 1px;
 }
 
 .card__img{
