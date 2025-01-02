@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Figtree";
+  font-style: normal;
+  font-weight: 500;
+
+  src: url("../vendor/fonts/Figtree-Medium.ttf") format(woff);
+}
+@font-face {
+  font-family: "Figtree";
+  font-style: bold;
+  font-weight: 800;
+
+  src: url("../vendor/fonts/Figtree-ExtraBold.ttf") format(woff);
+}
+.page{
+    width: 100vw;
+    height: 100vh;
+    background-color:hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    font-family: "Figtree",sans-serif;
+}
+.attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+.attribution a {
+      color: hsl(228, 45%, 44%);
+    }
