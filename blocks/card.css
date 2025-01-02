@@ -45,6 +45,10 @@
   font-weight: 800;
   font-size:x-large;
 }
+.card__title:hover{
+  color:hsl(47, 88%, 63%);
+  cursor: pointer;
+}
 .card__description{
 
   margin: 0;
